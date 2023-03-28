@@ -29,7 +29,7 @@ implemented using JWT and Cookie.
 * **Frontend:** TypeScript, React, Redux Toolkit, React Router, Ant design, Less.
 * **Backend:** Node.js, Express, PostgreSQL, Sequelize, JWT, Cookie.
 
-### **NSD ([Deployed:](https://nsd-pavel-goncharov.vercel.app/))**
+### **NSD ([Deployed](https://nsd-pavel-goncharov.vercel.app/))**
 * **Description**: This is landing page of NFT agency. HTML/CSS according to the Figma layout.
 * **Frontend:** TypeScript, React, Swiper, Scss, Webpack.
 

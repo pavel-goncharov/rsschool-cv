@@ -1,5 +1,6 @@
 # **Pavel Goncharov**
 ## **Junior Frontend Developer**
+![photo](./img/photo.png)
 
 ## **CONTACTS**
 * ### **Telegram:** @pavelgoncharov9

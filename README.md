@@ -45,3 +45,12 @@ your portfolio. The app uses the Coincap API.
 SEPTEMBER 2017 - JULY 2021
 
 Software Engineer.
+
+## **CODE EXAMPLE**
+**Kata 7 kuy:** Sum of two lowest positive integers.
+```
+function sumTwoSmallestNumbers(numbers) {  
+  numbers.sort((a, b) => a - b);
+  return numbers[0] + numbers[1];
+}
+```
